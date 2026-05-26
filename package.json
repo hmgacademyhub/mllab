@@ -1,0 +1,24 @@
+{
+  "name": "ml-learning-platform",
+  "version": "4.5.0",
+  "description": "Enterprise-ready free offline-first ML learning platform with 32 lessons, 16 exercises, curriculum hub, enterprise center, setup wizard, issue desk, resource library, release manager, PWA support and embedded Adewale/HMG Concepts profile; no AI API.",
+  "author": "Adewale Samson Adeagbo <hmgconcepts@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://cssadewale.github.io/ml-learning-platform",
+  "keywords": [
+    "machine-learning",
+    "scikit-learn",
+    "statsmodels",
+    "edtech",
+    "offline-first",
+    "vanilla-javascript",
+    "no-ai-api",
+    "hmg-concepts",
+    "enterprise",
+    "curriculum",
+    "cohort-manager",
+    "issue-desk",
+    "governance",
+    "free-tools"
+  ]
+}

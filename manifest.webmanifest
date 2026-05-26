@@ -1,0 +1,23 @@
+{
+  "name": "ML Lab Enterprise \u2014 HMG Concepts",
+  "short_name": "ML Enterprise",
+  "description": "Enterprise-ready free offline-first data science curriculum platform by Adewale Samson Adeagbo / HMG Concepts. No AI API.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#4f8aff",
+  "orientation": "any",
+  "categories": [
+    "education",
+    "productivity",
+    "developer"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

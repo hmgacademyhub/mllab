@@ -1,0 +1,47 @@
+{
+  "project": "ML Lab",
+  "author": "Adewale Samson Adeagbo",
+  "brand": "HMG Concepts",
+  "roles": [
+    "Data Scientist",
+    "STEM Educator",
+    "AI-Augmented Solutions Developer",
+    "Founder/Visioner, HMG Concepts"
+  ],
+  "location": "Lagos / Ogun State, Nigeria",
+  "portfolio": "https://cssadewale.pages.dev",
+  "hmgConcepts": "https://hmgconcepts.pages.dev",
+  "github": "https://github.com/cssadewale",
+  "linkedin": "https://linkedin.com/in/adewalesamsonadeagbo",
+  "youtube": "https://youtube.com/@hmgconcepts",
+  "whatsapp": "https://wa.me/2348100866322",
+  "emails": [
+    "hmgconcepts@gmail.com",
+    "hismarvellousgrace@gmail.com",
+    "buildingmyictcareer@gmail.com"
+  ],
+  "costModel": "Free static tools only; no AI API; no backend; no paid hosting required.",
+  "version": "4.5.0",
+  "enterpriseFeatures": [
+    "Enterprise Center",
+    "Cohort Manager",
+    "Governance Center",
+    "Audit Log",
+    "PWA Offline Support",
+    "GitHub Actions deployment"
+  ],
+  "curriculum": {
+    "lessons": 32,
+    "exercises": 16,
+    "path": "Beginner to expert data science"
+  },
+  "enterpriseExtension": [
+    "Setup Wizard",
+    "Issue Desk",
+    "Resource Library",
+    "Release Manager",
+    "Feature Catalog",
+    "No AI API Policy",
+    "Free Tool Stack"
+  ]
+}

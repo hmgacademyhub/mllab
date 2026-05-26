@@ -1,0 +1,13 @@
+# ML Lab Enterprise — Adewale Samson Adeagbo / HMG Concepts
+# Keep repository clean. Do not commit secrets, API keys or local OS files.
+
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+node_modules/
+__pycache__/
+.cache/
+dist/
+build/

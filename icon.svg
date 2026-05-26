@@ -1,0 +1,13 @@
+<!-- ML Lab icon — Adewale Samson Adeagbo / HMG Concepts -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ML Lab HMG Concepts">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f8aff"/>
+      <stop offset="1" stop-color="#00e5a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="26" fill="url(#g)"/>
+  <text x="64" y="56" font-family="Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle" fill="white">ML</text>
+  <text x="64" y="84" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="white">LAB</text>
+  <circle cx="103" cy="25" r="8" fill="#ffd166"/>
+</svg>
